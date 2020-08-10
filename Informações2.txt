@@ -1,0 +1,9 @@
+
+LM = 20.07
+    LIC = 18.60
+    LSC = 21.54
+    As amostras: [22, 26, 28, 29, 30, 31, 32, 35, 36, 39, 40] apresentam médias amostrais fora do intervalo entre média amostral ± 3 desvios-padrão amostral;
+    As amostras: [26, 27, 28, 29, 30, 31, 32, 35, 36, 39, 40] apresentam 2 médias amostrais consecutivas fora do intervalo entre média amostral ± 2 desvios-padrão amostral;
+    As amostras: [[25, 26, 27], [26, 27, 28], [27, 28, 29], [28, 29, 30], [29, 30, 31], [30, 31, 32], [31, 32, 33], [34, 35, 36], [35, 36, 37], [38, 39, 40]] apresentam pelo menos 2 valores que estão fora do intervalo entre média amostral ± 2 desvios-padrão amostral;
+
+        
